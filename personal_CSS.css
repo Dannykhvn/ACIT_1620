@@ -4,6 +4,11 @@ body {
 h1 {
     color:darkmagenta;
 }
+
+.head{
+    font-family: "Montserrat", sans-serif !important;
+}
+
 nav {
     background-color:lightblue;
     text-align:center;
