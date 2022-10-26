@@ -22,3 +22,12 @@ li {
     padding:5px;
 
 }
+
+.p1{
+    display:grid;
+    grid-template-columns: 2fr 1fr;
+}
+.p2{
+    display:grid;
+    grid-template-columns: 2fr 1fr;
+}
