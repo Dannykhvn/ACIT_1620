@@ -13,12 +13,12 @@ body {
     text-align:center;
 }
 
-ul{
+.ul1{
     list-style: none;
     display:flex;
     justify-content: center;
 }
-li {    
+.li1 {    
     padding:5px;
 
 }
