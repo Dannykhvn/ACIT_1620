@@ -1,15 +1,15 @@
 body {
-    background-color:lightsalmon;
+    background-color:#EDDDD0;
 }
 
 .head{
     text-align:center;
-    color:darkmagenta;
+    color:#334259;
     font-family: "Montserrat", sans-serif;
     
 }
 .begin{
-    background-color:lightblue;
+    background-color:#A6CAD4;
     text-align:center;
 }
 
@@ -30,4 +30,8 @@ li {
 .p2{
     display:grid;
     grid-template-columns: 2fr 1fr;
+}
+footer{
+    background-color:#A6CAD4;
+    text-align:center;
 }
