@@ -1,18 +1,24 @@
 body {
     background-color:lightsalmon;
 }
-h1 {
-    color:darkmagenta;
-}
 
 .head{
-    font-family: "Montserrat", sans-serif !important;
+    text-align:center;
+    color:darkmagenta;
+    font-family: "Montserrat", sans-serif;
+    
 }
-
-nav {
+.begin{
     background-color:lightblue;
     text-align:center;
 }
-li {
+
+ul{
     list-style: none;
+    display:flex;
+    justify-content: center;
+}
+li {    
+    padding:5px;
+
 }
